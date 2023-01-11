@@ -9,9 +9,29 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@near-wallet-selector/coin98-wallet": "^7.4.0",
+    "@near-wallet-selector/core": "^7.0.0",
+    "@near-wallet-selector/here-wallet": "^7.4.0",
+    "@near-wallet-selector/ledger": "^7.0.0",
+    "@near-wallet-selector/math-wallet": "^7.0.0",
+    "@near-wallet-selector/meteor-wallet": "^7.0.0",
+    "@near-wallet-selector/modal-ui": "^7.0.0",
+    "@near-wallet-selector/my-near-wallet": "^7.0.0",
+    "@near-wallet-selector/near-wallet": "^7.0.0",
+    "@near-wallet-selector/nearfi": "^7.4.0",
+    "@near-wallet-selector/nightly": "^7.0.0",
+    "@near-wallet-selector/nightly-connect": "^7.0.0",
+    "@near-wallet-selector/sender": "^7.4.0",
+    "@near-wallet-selector/wallet-connect": "^7.4.0",
     "@next/font": "13.1.1",
+    "encoding": "^0.1.13",
+    "near-api-js": "^0.44.2",
     "next": "13.1.1",
+    "next-themes": "^0.2.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
   }
 }
